@@ -3,4 +3,5 @@
     <string name="text_view">TextView</string>
     <string name="web">Web:</string>
     <string name="location">Location:</string>
+    <string name="map">See on the map</string>
 </resources>
